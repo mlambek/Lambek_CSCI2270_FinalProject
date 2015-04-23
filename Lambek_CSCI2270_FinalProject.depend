@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1429768996 source:c:\users\owatt\lambek_csci2270_finalproject\src\primesieve.cpp
+	<iostream>
+	"primeSieve.h"
+
+1429767087 c:\users\owatt\lambek_csci2270_finalproject\include\primesieve.h
+	<vector>
+
+1429767572 source:c:\users\owatt\lambek_csci2270_finalproject\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	"primeSieve.h"
+
