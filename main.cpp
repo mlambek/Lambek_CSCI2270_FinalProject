@@ -18,8 +18,5 @@ int primeMax()
 int main()
 {
     primeSieve pS(primeMax());
-
-    pS.printPrime();
-
     return 0;
 }

@@ -5,11 +5,13 @@ primeSieve::primeSieve(int m)
 {
     maxNum = m;
     build();
+
 }
 
 primeSieve::~primeSieve()
 {
     //dtor
+    printPrime();
 }
 
 void primeSieve::build()
