@@ -1,17 +1,20 @@
 # Lambek_CSCI2270_FinalProject Read Me
 # Summary:
-My project will take an integer and find all the prime numbers between 1 and the given integer, and all of the gap sizes between each prime number. It will also have a function to find all the factors of a given number within the original range given.
+This project will take an integer and find all the prime numbers between 1 and the given integer. It will have various prime number related functions these functions include: Finding the max gap in the range, finding the prime factors of a given number, and check if a given number is prime.
 
 # How to Run:
-Load the code into a compiler of your choie, then build and run. The program will ask for the desired max integer, then you will input an integer.
+Load the code into a compiler of your choie, then build and run. (you will only need main.cpp, primeSieve.cpp, and primeSieve.h)
+For windows: un-comment #include <windows.h>
 
 # Dependencies:
 
 # System Requirements:
 
 # Group Members:
+Maxwell Lambek
 Owen Wattenmaker
 
 # Contributors:
 
 # Open issues/bugs
+comma after the last prime factor should be removed.
