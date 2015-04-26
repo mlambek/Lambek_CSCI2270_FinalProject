@@ -17,9 +17,13 @@ class primeSieve
         void iInsert(int);
         bool vSearch(int);
         void printPrime();
+        void MaxGap();
+        void checkPrime(int);
+        void primeFactor(int);
 
     protected:
     private:
+        bool isprime(int);
         int maxNum;
         std::vector<prime> vTable;
 
