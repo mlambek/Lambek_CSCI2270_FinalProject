@@ -11,7 +11,7 @@ For windows: un-comment #include <windows.h>
 # System Requirements:
 
 # Group Members:
-Maxwell Lambek
+Maxwell Lambek,
 Owen Wattenmaker
 
 # Contributors:
